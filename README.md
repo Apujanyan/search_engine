@@ -7,8 +7,7 @@ This mini project will implement a simple search engine in Python 3
 - Install [Python 3](https://www.python.org/)
 - Install [git](https://git-scm.com/) and clone this project into local machine
 
-    ```
-    bash
+    ```bash
     $ git clone https://github.com/Apujanyan/search_engine.git
     $ cd search_engine
     ```
@@ -17,7 +16,6 @@ This mini project will implement a simple search engine in Python 3
 
 - Run `main.py`, to find out if desired word is in files
 
-    ```	
-    bash
+    ```	bash
     $ python main.py
     ```
