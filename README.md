@@ -1,6 +1,6 @@
 # Simple search engine with Python 3
 
-This mini project will implement a simple search engine in Python 3
+This mini project will implement a simple search engine in Python 3, what will search word in these files: 1.txt, 2.txt, 3.txt
 
 ## Tools
 
