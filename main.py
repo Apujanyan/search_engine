@@ -8,10 +8,6 @@ def file_open(path):
     return file_contents
 
 def main():
-    data = {'1.txt': [],
-            '2.txt': [],
-            '3.txt': []}
-
     while True:
         txt_1 = file_open('1.txt').split(' ')
         txt_2 = file_open('2.txt').split(' ')
